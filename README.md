@@ -4,6 +4,12 @@
 
 This repository contains my work on a VR Game Development and Sales Dashboard project. The primary goal was to analyze sales data and project budget for a virtual reality game development project. I used Microsoft Excel to perform data cleaning, analysis, and visualization and developed key insights to inform business decisions. This work highlights my skills in data analysis, Excel, and dashboard creation.
 
+## Sales Dashboard
+
+Here is a visual snapshot of the sales dashboard created to analyze sales performance, profit margins, and product categories:
+
+![Sales Dashboard](sales_dashboard.png)
+
 ## Key Files
 
 - **Project Budget (Assign Part 1)**: Contains the planned budget for the VR game development project, including costs categorized by type.
