@@ -2,7 +2,14 @@
 
 ## Project Overview
 
-This repository contains my work on a VR Game Development and Sales Dashboard project. The primary goal was to analyze sales data and project budget for a virtual reality game development project. I used Microsoft Excel to perform data cleaning, analysis, and visualization and developed key insights to inform business decisions. This work highlights my skills in data analysis, Excel, and dashboard creation.
+This repository contains my work on a VR Game Development and Sales Dashboard project. The primary goal was to analyze sales data and project budget for a virtual reality game development project. I used Microsoft Excel to perform data cleaning, analysis, and visualization, and developed key insights to inform business decisions. This work highlights my skills in data analysis, Excel, and dashboard creation.
+
+## Key Files
+
+- **Project Budget (Assign Part 1)**: Contains the planned budget for the VR game development project, including costs categorized by type.
+- **Sales Data (Assign Part 2)**: Detailed data on sales, products, categories, pricing, and salesperson performance.
+- **Pivot Table**: A summarized view of sales data, organized by year and category.
+- **Sales Dashboard**: A visualization of the sales data with key metrics such as profit, total sales, and product categories.
 
 ## Sales Dashboard
 
@@ -10,12 +17,12 @@ Here is a visual snapshot of the sales dashboard created to analyze sales perfor
 
 ![Sales Dashboard](sales_dashboard.png)
 
-## Key Files
+This dashboard highlights the following metrics:
+- **Total Sales** across various product categories.
+- **Profit Margins** for high-selling products.
+- **Salesperson Performance** based on their contribution to total sales.
 
-- **Project Budget (Assign Part 1)**: Contains the planned budget for the VR game development project, including costs categorized by type.
-- **Sales Data (Assign Part 2)**: Detailed data on sales, products, categories, pricing, and salesperson performance.
-- **Pivot Table**: A summarized view of sales data, organized by year.
-- **Sales Dashboard**: A visualization of the sales data with key metrics such as profit, total sales, and product categories.
+The dashboard allows for quick insights into sales trends, identifying top-performing products and regions, which could guide future marketing and sales efforts.
 
 ## Analysis Overview
 
@@ -29,9 +36,8 @@ Here is a visual snapshot of the sales dashboard created to analyze sales perfor
    - **One-Time Costs vs. Recurring Costs**: The budget data helped distinguish between one-time and recurring costs, which is important for future financial planning.
    - **Cost Control**: Focused on managing project costs by examining high-expense areas and opportunities for cost-saving.
 
-### 3. **Pivot Table and Dashboard**
-   - **Sales Summary**: Created a pivot table to summarize sales by year and category.
-   - **Interactive Dashboard**: Developed a dynamic sales dashboard to visualize key performance indicators (KPIs), such as total sales, profit margins, and product category performance. This dashboard provides an interactive way to explore the data.
+### 3. **Pivot Table**
+   - **Sales Summary**: Created a pivot table to summarize sales by year and category, which provided insights into annual performance and product success.
 
 ## Key Skills Demonstrated
 - **Data Cleaning**: Cleaned and pre-processed raw sales and budget data to ensure accuracy in analysis.
@@ -41,7 +47,7 @@ Here is a visual snapshot of the sales dashboard created to analyze sales perfor
 
 ## Tools and Technologies
 - **Microsoft Excel**: For data cleaning, analysis, and dashboard creation.
-- **GitHub**: To manage the files.
+- **GitHub**: To manage the version control of the project and showcase the analysis.
 
 ## Insights & Conclusion
 The analysis revealed several important findings:
