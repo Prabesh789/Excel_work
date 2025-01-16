@@ -1,4 +1,4 @@
-# VR Game Development and Sales Dashboard Analysis
+# VR Game Development Budget and Sales Data Dashboard Analysis
 
 ## Project Overview
 
